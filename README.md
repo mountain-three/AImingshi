@@ -18,15 +18,17 @@
 
 不同表格对应不同index：
 
-![image-20211211124748464](C:\Users\hasee\AppData\Roaming\Typora\typora-user-images\image-20211211124748464.png)
+![](.\readmeuse\image-20211211124748464.png)
 
 例如family_fygx_cases对应家庭关系中抚养关系表格（fygx），index为2。
 
 **2.修改这一句代码：**
 
-![image-20211211125157824](C:\Users\hasee\AppData\Roaming\Typora\typora-user-images\image-20211211125157824.png)
+![image-20211211125157824](.\readmeuse\image-20211211125157824.png)
 
-根据要存的表格修改路径：![image-20211211125351818](C:\Users\hasee\AppData\Roaming\Typora\typora-user-images\image-20211211125351818.png)
+
+
+根据要存的表格修改路径：![image-20211211125351818](.\readmeuse\image-20211211125351818.png)
 
 sheet_name:表示excel中第几个sheet，从零开始
 
@@ -38,7 +40,7 @@ skiprows：跳过哪几行。因为第一第二行为空，所以我跳过。
 
 （1）从excel中读取的数据有/r这种符号。
 
-![image-20211211125737431](C:\Users\hasee\AppData\Roaming\Typora\typora-user-images\image-20211211125737431.png)
+![image-20211211125737431](.\readmeuse\image-20211211125737431.png)
 
 
 
@@ -52,8 +54,9 @@ skiprows：跳过哪几行。因为第一第二行为空，所以我跳过。
 
 1.修改input。把input的内容改为用户输入即可。
 
-![image-20211211130153593](C:\Users\hasee\AppData\Roaming\Typora\typora-user-images\image-20211211130153593.png)
+![image-20211211130153593](.\readmeuse\image-20211211130153593.png)
 
 2.修改file_index。指明是在类别的表格中找。
 
-![image-20211211124748464](C:\Users\hasee\AppData\Roaming\Typora\typora-user-images\image-20211211124748464.png)
+![image-20211211124748464](.\readmeuse\image-20211211124748464.png)
+
