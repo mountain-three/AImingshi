@@ -6,7 +6,7 @@
 
 ## main.py：
 
-创建数据库模式
+创建数据库模式。文件执行顺序：<u>先执行main.py（创建数据库）再执行write.py（将数据存入数据库）再执行search.py（搜索）</u>
 
 ## write.py：
 
